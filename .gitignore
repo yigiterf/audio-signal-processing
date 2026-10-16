@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+speech_project/venv/
+.env
+.DS_Store
+*.swp
+*.log

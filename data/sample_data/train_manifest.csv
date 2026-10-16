@@ -1,0 +1,21 @@
+audio_path,transcript,duration,speaker
+speech_project/data/sample_data/wavs/sample_001.wav,merhaba dunya,1.85,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_002.wav,sinyaller ve sistemler,2.3,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_003.wav,ktu bilgisayar muhendisligi,2.55,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_004.wav,ses analizi ve derin ogrenme,2.6,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_005.wav,konusma tanima sistemi,2.3,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_006.wav,yapay zeka modeli,2.05,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_007.wav,sayisal sinyal isleme,2.25,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_008.wav,fourier donusumu ve spektrogram,2.75,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_009.wav,mobil programlama dersi,2.35,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_010.wav,donem projesi calismasi,2.35,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_011.wav,turkce konusma verisi,2.25,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_012.wav,akustik ozellik cikarimi,2.4,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_013.wav,derin ogrenme egitimi,2.25,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_014.wav,mikrofon ses kaydi,2.1,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_015.wav,gurultulu ortam testi,2.25,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_016.wav,sessiz oda kayitlari,2.2,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_017.wav,frekans bandi analizi,2.25,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_018.wav,karakter tabanli model,2.3,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_019.wav,baglamsal dil ogrenimi,2.3,sentetik_ornek
+speech_project/data/sample_data/wavs/sample_020.wav,test ve gecerleme asamalari,2.55,sentetik_ornek
