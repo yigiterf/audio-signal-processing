@@ -9,3 +9,6 @@ speech_project/venv/
 .DS_Store
 *.swp
 *.log
+
+# Kişisel çalışma notları
+docs/
